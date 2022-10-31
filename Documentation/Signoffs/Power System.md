@@ -30,6 +30,3 @@ $V=I \cdot R$
 
 A complete list of all components needed for the design must be given with the cost of each component and the total cost of the subsystem. The BOM should be a markdown table (excel tables can be copied and pasted directly into the markdown file and they will be automatically converted).
 
-## Revisions
-
-Each time that a signoff document is updated in response to faculty comments, the extended description must be filled in for the commit describing what was changed. 
